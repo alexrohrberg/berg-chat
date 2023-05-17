@@ -1,6 +1,9 @@
 # berg-chat
 Multithreaded P2P Chat in Rust
 
+# Demo
+[YouTube Demo](https://youtu.be/ugW5U9VyFHQ)
+
 # Multithreaded P2P Chat in Rust
 
 Welcome to the Multithreaded P2P Chat project in Rust! This project aims to provide a peer-to-peer chat application utilizing multiple threads and a command-line interface (CLI). With this chat application, users can communicate with each other in a distributed network environment.
