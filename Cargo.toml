@@ -1,0 +1,11 @@
+[package]
+name = "berg-chat"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+local-ip-address = "0.5.3"
+threads_pool = "0.2.6"
+[local-ip-address]
